@@ -51,7 +51,6 @@ pcRandomizer = rd.randint(1,100)
 lowRandomizer = rd.randint(1,10)
 highRandomizer = rd.randint(1,10)
 tries = 10
-print(pcRandomizer)
 
 print("Guessing Game!")
 print("I think in a number between 1 and 100... Now, try to guess what number i was thinking")
