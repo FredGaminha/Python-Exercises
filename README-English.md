@@ -22,9 +22,16 @@ It will be revealed which option is selected by the machine as a form of guidanc
 
 ## 3rd Mini-Project - Stopwatch
 
-The last project is the creation of a timer in which the user will enter a time (in seconds) and the system will convert it into minutes and seconds and will start to reduce the time every second, as if it were a clock.
+The 3rd project is the creation of a timer in which the user will enter a time (in seconds) and the system will convert it into minutes and seconds and will start to reduce the time every second, as if it were a clock.
 
 The **time** library was used to create this mini-project.
+
+## 4th Mini-Project - Password Generator
+This 4th project, it provides a password generator based on two variables that can be declared by the user.
+
+The first variable, is how much password you want the system to generate and the second variable, is about the length for each password.
+
+There's only one rule... The length of the password needs to be **higher or equal to 8** and **lower or equal to 32** characters, more or less than two condition will cause an error.
 
 ## Final considerations
 All projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/.
