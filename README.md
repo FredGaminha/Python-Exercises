@@ -33,7 +33,7 @@ The first variable, is how much password you want the system to generate and the
 
 There's only one rule... The length of the password needs to be **higher or equal to 8** and **lower or equal to 32** characters, more or less than two condition will cause an error.
 
-## 5th Mini-Project: QR Code Generator
+## 5th Mini-Project - QR Code Generator
 
 This 5th mini-project, it allows the user to generate a QR Code from a link or text to be scanned by a smartphone.
 
