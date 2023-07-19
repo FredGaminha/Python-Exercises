@@ -33,5 +33,17 @@ A primeira variável é quantas senha você deseja que o sistema gere e a segund
 
 Só existe uma regra... O comprimento da senha precisa ser **maior ou igual a 8** e **menor ou igual a 32** caracteres, mais ou menos que duas condições causará um erro.
 
+## 5º Mini-Projeto - Gerador de QR Code
+
+Este 5º miniprojeto, permite ao usuário gerar um QR Code a partir de um link ou texto para ser escaneado por um smartphone.
+
+Há três variáveis dentro do programa.
+
+| Variável | Descrição |
+| :------: | :---------- |
+| userPhrase | Texto ou URL do usuário que será revelado pelo aplicativo QR Code Reader. |
+| userFile  | Nome do arquivo o arquivo será armazenado em seu telefone/computador |
+| qrFile | O formato do arquivo será exportado, pode escolher entre **.png, .svg** e **.pdf** |
+
 ## Considerações Finais
 Todos os projetos foram encontrados em  https://www.freecodecamp.org/news/python-projects-for-beginners/.
