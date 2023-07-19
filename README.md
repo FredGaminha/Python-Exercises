@@ -47,4 +47,5 @@ There's three variables inside the program.
 
 ## Final considerations
 All projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/.
+
 Inside the repository, there's a second **readme.md** with a ***portuguese*** description
