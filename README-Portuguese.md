@@ -26,5 +26,12 @@ O último projeto é a criação de um cronometo em que o usuário insirá um te
 
 Foi utilizado a biblioteca de **time** para a criação desse mini-projeto.
 
+## 4º Mini-Projeto - Gerador de Senhas
+Este 4º projeto fornece um gerador de senhas baseado em duas variáveis que podem ser declaradas pelo usuário.
+
+A primeira variável é quantas senha você deseja que o sistema gere e a segunda variável é sobre o comprimento de cada senha.
+
+Só existe uma regra... O comprimento da senha precisa ser **maior ou igual a 8** e **menor ou igual a 32** caracteres, mais ou menos que duas condições causará um erro.
+
 ## Considerações Finais
 Todos os projetos foram encontrados em  https://www.freecodecamp.org/news/python-projects-for-beginners/.
