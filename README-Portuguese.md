@@ -45,5 +45,13 @@ Há três variáveis dentro do programa.
 | userFile  | Nome do arquivo o arquivo será armazenado em seu telefone/computador |
 | qrFile | O formato do arquivo será exportado, pode escolher entre **.png, .svg** e **.pdf** |
 
+## 6º Mini-Projeto - Gravador de senhas
+
+Esse 6º miniprojeto, permite que o usuário consiga gravar uma senha através de uma interface gráfica (Usando **Tkinter**) e essa senha é armazenada em um arquivo de texto que será gerado pelo próprio programa.
+
+## 7º Mini-Projeto - Livro de Contatos
+
+Esse 7º miniprojeto criará um banco de dados através da biblioteca **SQLite 3** e o usuário poderá fazer as ações de um CRUD, em outras palavras, criar, deletar, atualizar ou visualizar.
+
 ## Considerações Finais
-Todos os projetos foram encontrados em  https://www.freecodecamp.org/news/python-projects-for-beginners/.
+Todos os projetos foram encontrados em https://www.freecodecamp.org/news/python-projects-for-beginners/ e também https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/.
