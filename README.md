@@ -45,6 +45,14 @@ There's three variables inside the program.
 | userFile | File name the archive will be stored on your phone/computer |
 | qrFile   | File format will be exported, can choose between **.png, .svg** and **.pdf** |
 
+## 6th Mini-Project - Saving-Password
+
+This is my 6th mini-project, it opens a GUI allowing to save a password of your choice and that password will be recorded into a password.txt file.
+
+## 7th Mini-Project - Contact Book
+
+This is my 7th mini-project, will create a database using **SQLite 3** library and allows the user to insert new contacts, view all contacts, delete contact or update info about one contact.
+
 ## Final considerations
 Some projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/ or https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/.
 
