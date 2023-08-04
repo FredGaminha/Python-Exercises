@@ -46,6 +46,6 @@ There's three variables inside the program.
 | qrFile   | File format will be exported, can choose between **.png, .svg** and **.pdf** |
 
 ## Final considerations
-All projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/.
+Some projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/ or https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/.
 
 Inside in this repository, there's a second **readme.md** with a ***portuguese*** description
