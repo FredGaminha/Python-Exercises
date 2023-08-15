@@ -53,5 +53,9 @@ Esse 6º miniprojeto, permite que o usuário consiga gravar uma senha através d
 
 Esse 7º miniprojeto criará um banco de dados através da biblioteca **SQLite 3** e o usuário poderá fazer as ações de um CRUD, em outras palavras, criar, deletar, atualizar ou visualizar.
 
+## 8º Mini-Projeto - Dígitos do CPF
+
+Esse 8º miniprojeto, gerará os últimos dois dígitos de um CPF com base no CPF de nove dígitos informados pelo usuário. Você pode validar a estrutura do CPF através do link https://www.4devs.com.br/validador_cpf
+
 ## Considerações Finais
 Todos os projetos foram encontrados em https://www.freecodecamp.org/news/python-projects-for-beginners/ e também https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/.
