@@ -55,7 +55,8 @@ This is my 7th mini-project, will create a database using **SQLite 3** library a
 
 ## 8th Mini-Project - CPF Digit
 
-This is my 8th mini-project, where i'll manage to generate the two lasts digits of a CPF... But there's a room for improvements and there's a bug where the last digit is different from your CPF typed originally.
+This is my 8th mini-project, this one, will generate the lasts 2 digits to CPF and this new CPF will be valid, if you validate in a website.
+You can validate on https://4devs.com/validador_cpf/
 
 ## Final considerations
 Some projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/ or https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/.
