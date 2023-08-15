@@ -56,6 +56,7 @@ This is my 7th mini-project, will create a database using **SQLite 3** library a
 ## 8th Mini-Project - CPF Digit
 
 This is my 8th mini-project, this one, will generate the lasts 2 digits to CPF and this new CPF will be valid, if you validate in a website.
+
 You can validate on https://4devs.com/validador_cpf/
 
 ## Final considerations
