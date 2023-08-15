@@ -59,6 +59,10 @@ This is my 8th mini-project, this one, will generate the lasts 2 digits to CPF a
 
 You can validate on https://4devs.com/validador_cpf/
 
+##9th Mini-Project - Blackjack
+
+This is my 9th mini-project, i'll try to simulate a normal game of blackjack, where you play against yourself... Try to get 21 or Blackjack to win! I've used random, time and os libraries.
+
 ## Final considerations
 Some projects were found at https://www.freecodecamp.org/news/python-projects-for-beginners/ or https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/.
 
